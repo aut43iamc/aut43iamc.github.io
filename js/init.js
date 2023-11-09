@@ -7,5 +7,5 @@ firebase.initializeApp({
   projectId: "autenticacionwithfb",
   storageBucket: "autenticacionwithfb.appspot.com",
   messagingSenderId: "563607923061",
-  appId: "1:563607923061:web:f7ddd8758a8da7e087cb3c"
+  appId: "1:563607923061:web:0f26e6dd6d48120687cb3c"
     });
